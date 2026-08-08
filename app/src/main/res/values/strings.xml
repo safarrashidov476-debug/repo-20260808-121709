@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shams Audio Editor</string>
+    <string name="trim_audio">Audioni Kesish</string>
+    <string name="merge_audio">Audioni Birlashtirish</string>
+    <string name="effects">Effektlar</string>
+    <string name="convert_format">Format O\'zgartirish</string>
+    <string name="video_to_audio">Videodan Audio</string>
+    <string name="audio_to_video">Audio dan Video</string>
+    <string name="select_audio">Audio Tanlash</string>
+    <string name="select_video">Video Tanlash</string>
+    <string name="select_image">Rasm Tanlash</string>
+    <string name="processing">Qayta ishlanmoqda...</string>
+    <string name="success">Muvaffaqiyatli!</string>
+    <string name="error">Xatolik yuz berdi</string>
+    <string name="preview">Oldindan Tinglash</string>
+    <string name="save">Saqlash</string>
+    <string name="start_time">Boshlanish vaqti</string>
+    <string name="end_time">Tugash vaqti</string>
+    <string name="echo_effect">Echo</string>
+    <string name="reverb_effect">Reverb</string>
+    <string name="delay_effect">Delay</string>
+    <string name="pitch_up">Ton Ko\'tarish</string>
+    <string name="pitch_down">Ton Tushirish</string>
+    <string name="speed_up">Tezlashtirish</string>
+    <string name="speed_down">Sekinlashtirish</string>
+    <string name="volume_up">Ovoz Kuchaytirish</string>
+    <string name="volume_down">Ovoz Kamaytirish</string>
+</resources>
